@@ -1,0 +1,20 @@
+﻿{
+	"forms": {
+		"Input": {
+			"timeStamp": "2019-10-22T07:51:20.080Z",
+			"destination": "detailScreen"
+		},
+		"Output": {
+			"timeStamp": "2019-10-22T07:51:20.086Z",
+			"destination": "detailScreen"
+		},
+		"PrintList": {
+			"timeStamp": "2019-10-22T07:51:20.075Z",
+			"destination": "listPrinter"
+		},
+		"Print": {
+			"timeStamp": "2019-10-22T07:51:20.069Z",
+			"destination": "detailScreen"
+		}
+	}
+}
